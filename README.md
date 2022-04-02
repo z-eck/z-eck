@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 - 🌱 Eu estou finalizando o curso técnico de Desenvolvimentos de Sistemas na instituição SENAI (System Development);
 - 📁 Meu principal projeto atual (e minha vitrine) é este projeto: https://github.com/Mega-time-TCC-2RP/Projeto-2RP (Dê uma checada :D);
-- 📫 Meu e-mail principal para contato é: erick_escarlate@houtlook.com;
+- 📫 Meu e-mail principal para contato é: erick_escarlate@outlook.com;
 - 📫 Temos o alternativo também: erick_souzz@hotmail.com;
+- 💻 Atualmente eu tenho dado uma boa estudada na linguagem Kotlin, e sim, pretendo ir além com ela.
 <br>
 <br>
 
