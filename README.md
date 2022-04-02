@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Zeck-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div><br>
 
-### PLATAFORMAS E SISTEMAS
+### PLATAFORMAS, SISTEMAS E FERRAMENTAS
 
 <div style="display: inline_block; text-align: center"><br>
     <img align="center" alt="Zeck-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
