@@ -1,4 +1,4 @@
-### Opa, eu sou o Erick, e diga olá ao meu GitHub :)
+### Hi hi, My name's Erick and I'm a DevOps :)
 
 <br>
 
@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Eu estou cursando Desenvolvimentos de Sistemas na instituição SENAI (System Development);
-- 🤔 Eu estou procurando ajuda com Front-End;
-- 💬 Pode me perguntar sobre Redes de Computadores que eu te responderei com maestria [Computers Network (like Linux System, Windows Server, Cisco IOS, OSI Model...)];
-- ⚡ Coisa aleatória: Eu joguei xadrez em um campeonato na cidade de São Paulo, e fiquei em segundo lugar 🥈 :D
-<!-- - 📫 How to reach me: erick_souzz@hotmail.com; -->
+- 🌱 Eu estou finalizando o curso técnico de Desenvolvimentos de Sistemas na instituição SENAI (System Development);
+- 📁 Meu principal projeto atual (e minha vitrine) é este projeto: https://github.com/Mega-time-TCC-2RP/Projeto-2RP (Dê uma checada :D);
+- 📫 Meu e-mail principal para contato é: erick_escarlate@houtlook.com;
+- 📫 Temos o alternativo também: erick_souzz@hotmail.com;
 <br>
 <br>
 
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-eck&layout=compact&langs_count=7&theme=synthwave"/>
 </div><br>
 
-### LINGUAGENS E FUNCIONALIDADES
+### LINGUAGENS E BIBLIOTECAS
 
 <div style="display: inline_block; text-align: center"><br>
     <img align="center" alt="Zeck-Amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
