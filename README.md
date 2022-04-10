@@ -1,4 +1,6 @@
-### Hi hi, My name's Erick and I'm a DevOps :)
+<div align="center">
+  <img src="https://github.com/z-eck/z-eck/blob/main/img/header.png" alt="header"/>
+</div>
 
 <br>
 
