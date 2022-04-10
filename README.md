@@ -24,6 +24,15 @@ Here are some ideas to get you started:
 - 💻 Atualmente eu tenho dado uma boa estudada na linguagem Kotlin, e sim, pretendo ir além com ela.
 <br>
 <br>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+![Outlook]()
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/z-eck/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:erick_escarlate@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/z-eck">
