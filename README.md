@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 ### LINGUAGENS E BIBLIOTECAS
 
 <div style="display: inline_block; text-align: center"><br>
-    <img align="center" alt="Zeck-Amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Zeck-Azure" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-    <img align="center" alt="Zeck-CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
     <img align="center" alt="Zeck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Zeck-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
     <img align="center" alt="Zeck-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -52,6 +49,9 @@ Here are some ideas to get you started:
 ### PLATAFORMAS, SISTEMAS E FERRAMENTAS
 
 <div style="display: inline_block; text-align: center"><br>
+    <img align="center" alt="Zeck-Amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="Zeck-Azure" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+    <img align="center" alt="Zeck-CentOS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg">
     <img align="center" alt="Zeck-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
     <img align="center" alt="Zeck-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
     <img align="center" alt="Zeck-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
