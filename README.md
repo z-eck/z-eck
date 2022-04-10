@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/z-eck/z-eck/blob/main/img/header.ng" alt="header"/>
+  <img src="https://github.com/z-eck/z-eck/blob/main/img/header.png" alt="header"/>
 </div>
 
 <br>
