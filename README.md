@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Eu estou finalizando o curso técnico de Desenvolvimentos de Sistemas na instituição SENAI (System Development);
-- 📁 Meu principal projeto atual (e minha vitrine) é este projeto: "[Bots 4RPA](https://github.com/Mega-time-TCC-2RP/Bots-4RPA)" (Dê uma checada :D);
+- 🌱 Estou estudando mais a fundo sobre GCP (um dia irei tirar certificação dela, fiquem vendo);
+- 📁 Meu projeto que possuo mais carinho é esse: "[Bots 4RPA](https://github.com/Mega-time-TCC-2RP/Bots-4RPA)" (Dê uma checada :D);
 - 📫 Meu e-mail principal para contato é: erick_escarlate@outlook.com;
 - 📫 Temos o alternativo também: erick_souzz@hotmail.com;
-- 💻 Atualmente eu tenho dado uma boa estudada na linguagem Kotlin, e sim, pretendo ir além com ela.
+- 💻 Atualmente eu tenho visto bastante Docker e Kubernetes, tanto suas versões físicas, quanto em nuvem, mais específicamente, na Google Cloud Plataform.
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/z-eck/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:erick_escarlate@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
