@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📁 Meu projeto que possuo mais carinho é esse: "[Bots 4RPA](https://github.com/Mega-time-TCC-2RP/Bots-4RPA)" (Dê uma checada :D);
 - 📫 Meu e-mail principal para contato é: erick_escarlate@outlook.com;
 - 📫 Temos o alternativo também: erick_souzz@hotmail.com;
-- 💻 Atualmente eu tenho visto bastante Docker e Kubernetes, tanto suas versões físicas, quanto em nuvem, mais específicamente, na Google Cloud Plataform.
+- 💻 Atualmente eu tenho visto bastante SonarQube! Vou me tornar expert nisso ainda.
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/z-eck/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:erick_escarlate@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
